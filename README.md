@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hi, I am mahdi nouri
+
+programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
+
+### languages, framework and tools:
+
+
+
+<details>
+ <summary>How mahdi enjoys his life outside of tech</summary>
+ <br />
+  Spending time with friends 👧👦🎁🎉👨
+ <br />
+  Watch the movie and toons 🌃🧚‍♀️🔥🐉📺🍕
+ <br />
+  Read books and papers 📖🌟🌌🚀👽
+</details>
+
 
 <!--
 **AlgoNouir/algonouir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
