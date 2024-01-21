@@ -2,8 +2,11 @@
 
 programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 
+one day, one project :)
+
 ### languages, framework and tools:
 
+i say that!
 
 
 <details>
