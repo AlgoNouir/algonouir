@@ -1,8 +1,19 @@
 # Hi, I am mahdi nouri
 
+<a href="https://t.me/call_me_nouh">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Telegram-000?style=plastic&logo=telegram&cacheSeconds=hello.com">
+</a>
+<a href="mailto:algo.mahdi.nouri@gmail.com">
+ <img alt="Static Badge" src="https://img.shields.io/badge/-mail-000?style=plastic&logo=gmail&cacheSeconds=hello.com">
+</a>
+
+
+</br>
+</br>
 born in Iran/Ardabill in 2003-09-18
 
 🔭 I’m currently working on AI projects
+
 programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 
 > [!NOTE]\
