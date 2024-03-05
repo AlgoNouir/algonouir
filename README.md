@@ -9,7 +9,7 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 > When I started programming, VB was still used for programming (2013), Since then I have been looking for tough challenges that make my life faster. I saw the birth of many frameworks and read a lot about them and their grandfathers.But I still need to know a lot. For a faster life
 
 
-
+# About Me
 <details>
  <summary>What are the most special ethics of Mahdi?</summary>
  <br />
@@ -21,7 +21,6 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
  <br />
   He wants the best things, he is never satisfied with less (he is a perfectionist) 💎⚠️💯
 </details>
-
 <details>
  <summary>How mahdi enjoys his life outside of tech?</summary>
  <br />
@@ -43,8 +42,16 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 </details>
 
 
-## Languages & Scripts
+# Experience
 
+- [Idea Khalagan Sabz Arta](https://rasm.io/company/14009723830/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A7%DB%8C%D8%AF%D9%87%20%D8%AE%D9%84%D8%A7%D9%82%D8%A7%D9%86%20%D8%B3%D8%A8%D8%B2%20%D8%A2%D8%B1%D8%AA%D8%A7/) - <b>Full Stack Developer</b> - <b>December 2022 - Present</b>
+- [Currencyno](https://Currencyno.com/) - <b>Full Stack Developer</b> - <b>July 2023 - Present</b>
+- SadrEshrag - <b>Founder & Chief Technology Officer</b> - <b>March 2022 - January 2023</b>
+- [Coloniume](https://coloniume.org/) - <b>Algorithm and AI Office</b> - <b>July 2021 - January 2022</b>
+
+
+
+# Languages & Scripts
 ![Static Badge](https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/-typescript-000?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 ![Static Badge](https://img.shields.io/badge/-dart-000?style=for-the-badge&logo=dart&logoColor=white)
@@ -56,8 +63,7 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 ![Static Badge](https://img.shields.io/badge/-php-000?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
 
 
-
-## Frontend Stacks
+### Frontend Stacks
 ![Static Badge](https://img.shields.io/badge/-Stacks-000?style=for-the-badge&logo=javascript&label=javascript%20base&color=%23F7DF1E)&nbsp;
 ![Static Badge](https://img.shields.io/badge/-Stacks-000?style=for-the-badge&logo=typescript&label=Typescript%20base&color=%233178C6)&nbsp; 
 ![Static Badge](https://img.shields.io/badge/-React-000?style=flat&logo=react)
@@ -91,7 +97,7 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 
 
 
-## Backend Stacks
+### Backend Stacks
 
 ![Static Badge](https://img.shields.io/badge/-Stacks-000?style=for-the-badge&logo=python&label=python%20base&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/-pytest-000?style=flat&logo=pytest)
@@ -131,7 +137,7 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 ![Static Badge](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
 ![Static Badge](https://img.shields.io/badge/-Yii2-000?style=flat&logo=php)
 
-## DevOps 
+### DevOps 
 
 ![Static Badge](https://img.shields.io/badge/-circle--ci-000?style=flat&logo=circleci)
 ![Static Badge](https://img.shields.io/badge/-git-000?style=flat&logo=git)
@@ -141,20 +147,6 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 ![Static Badge](https://img.shields.io/badge/-docker-000?style=flat&logo=docker)
 ![Static Badge](https://img.shields.io/badge/-kubernetes-000?style=flat&logo=kubernetes)
 
+</details>
 
 one day, one project :)
-
-<!--
-**AlgoNouir/algonouir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
