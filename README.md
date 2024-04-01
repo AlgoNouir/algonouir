@@ -138,13 +138,9 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 
 ### DevOps 
 
-![Static Badge](https://img.shields.io/badge/-circle--ci-000?style=flat&logo=circleci)
 ![Static Badge](https://img.shields.io/badge/-git-000?style=flat&logo=git)
 ![Static Badge](https://img.shields.io/badge/-github-000?style=flat&logo=github)
-![Static Badge](https://img.shields.io/badge/-githubactions-000?style=flat&logo=githubactions)
-![Static Badge](https://img.shields.io/badge/-gitlab-000?style=flat&logo=gitlab)
 ![Static Badge](https://img.shields.io/badge/-docker-000?style=flat&logo=docker)
-![Static Badge](https://img.shields.io/badge/-kubernetes-000?style=flat&logo=kubernetes)
 
 </details>
 
