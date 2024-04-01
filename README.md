@@ -92,7 +92,6 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 ![Static Badge](https://img.shields.io/badge/-.ENV-000?style=flat&logo=dotenv)
 ![Static Badge](https://img.shields.io/badge/-Expo-000?style=flat&logo=expo)
 ![Static Badge](https://img.shields.io/badge/-Storybook-000?style=flat&logo=storybook)
-![Static Badge](https://img.shields.io/badge/-Assembly--Script-000?style=flat&logo=assemblyscript)
 
 ![Static Badge](https://img.shields.io/badge/-Stacks-000?style=for-the-badge&label=UIUX)
 ![Static Badge](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
@@ -119,7 +118,6 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 ![Static Badge](https://img.shields.io/badge/-pypi-000?style=flat&logo=pypi)
 ![Static Badge](https://img.shields.io/badge/-rest--frame--work-000?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/-Raspberry--Pi-000?style=flat&logo=raspberrypi)
-![Static Badge](https://img.shields.io/badge/-sqlalchemy-000?style=flat&logo=sqlalchemy)
 
 ![Static Badge](https://img.shields.io/badge/-Stacks-000?style=for-the-badge&label=Data%20base)
 ![Static Badge](https://img.shields.io/badge/-Oracle-000?style=flat&logo=oracle)
