@@ -92,7 +92,7 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 ![Static Badge](https://img.shields.io/badge/-.ENV-000?style=flat&logo=dotenv)
 ![Static Badge](https://img.shields.io/badge/-Expo-000?style=flat&logo=expo)
 ![Static Badge](https://img.shields.io/badge/-Storybook-000?style=flat&logo=storybook)
-![Static Badge](https://img.shields.io/badge/-ASSembly-000?style=flat&logo=assemblyscript)
+![Static Badge](https://img.shields.io/badge/-Assembly--Script-000?style=flat&logo=assemblyscript)
 
 ![Static Badge](https://img.shields.io/badge/-Stacks-000?style=for-the-badge&label=UIUX)
 ![Static Badge](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
