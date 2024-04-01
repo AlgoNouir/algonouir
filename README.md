@@ -119,16 +119,6 @@ programmer 👨‍💻, researcher 🧑‍🔬 and techTeacher 🧑‍🏫
 ![Static Badge](https://img.shields.io/badge/-rest--frame--work-000?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/-Raspberry--Pi-000?style=flat&logo=raspberrypi)
 
-![Static Badge](https://img.shields.io/badge/-Stacks-000?style=for-the-badge&label=Data%20base)
-![Static Badge](https://img.shields.io/badge/-Oracle-000?style=flat&logo=oracle)
-![Static Badge](https://img.shields.io/badge/-postgresql-000?style=flat&logo=postgresql)
-![Static Badge](https://img.shields.io/badge/-mysql-000?style=flat&logo=mysql)
-![Static Badge](https://img.shields.io/badge/-sqlite-000?style=flat&logo=sqlite)
-![Static Badge](https://img.shields.io/badge/-microsoftsqlserver-000?style=flat&logo=microsoftsqlserver)
-![Static Badge](https://img.shields.io/badge/-mariadb-000?style=flat&logo=mariadb)
-![Static Badge](https://img.shields.io/badge/-mongodb-000?style=flat&logo=mongodb)
-![Static Badge](https://img.shields.io/badge/-graphql-000?style=flat&logo=graphql)
-
 ![Static Badge](https://img.shields.io/badge/-Stacks-000?style=for-the-badge&label=Cloud&color=%23F38020)
 ![Static Badge](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws)
 ![Static Badge](https://img.shields.io/badge/-minio-000?style=flat&logo=minio)
